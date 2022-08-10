@@ -1,2 +1,2 @@
-# CoddlerBoxDemo
-it's a simple demo repo
+# coddlerbox-private
+repo for confidential data
